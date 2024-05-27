@@ -1,5 +1,5 @@
 <?php
-   $namaServer = "localhost:8111";
+   $namaServer = "#"; //yourlocalhost
    $namauser = "root";
    $namaPass = "";
    $namaDb = "presensi";
